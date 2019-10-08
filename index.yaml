@@ -1,0 +1,17 @@
+%YAML 1.1
+# ROS index file
+# see REP 141: http://ros.org/reps/rep-0141.html
+---
+scalable_system:
+  kinetic:
+    https:
+      apm: config/apm_https.rosinstall
+      arm_motion: config/arm_motion_https.rosinstall
+      inesc_apm_devel: config/inesc_apm_devel_https.rosinstall 
+      release_pas: config/release_psa_https.rosinstall
+    ssh:
+      apm: config/apm.rosinstall
+      arm_motion: config/arm_motion.rosinstall              
+      inesc_apm_devel: config/inesc_apm_devel.rosinstall
+      release_pas: config/release_psa.rosinstall
+version: 1
