@@ -14,4 +14,5 @@ scalable_system:
       arm_motion: config/arm_motion.rosinstall              
       inesc_apm_devel: config/inesc_apm_devel.rosinstall
       release_pas: config/release_psa.rosinstall
+type: index
 version: 1
