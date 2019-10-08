@@ -15,4 +15,4 @@ scalable_system:
       inesc_apm_devel: config/inesc_apm_devel.rosinstall
       release_pas: config/release_psa.rosinstall
 type: index
-version: 1
+version: 2
