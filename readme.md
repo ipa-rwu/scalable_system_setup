@@ -21,7 +21,7 @@ Initialize your SCALABLE workspace:
 
 > $ cd scalable_ws  
 #If you use SSH:  
-> $ wstool init src https://raw.githubusercontent.com/ScalABLE40/scalable_system_setup/master/config/release_psa.rosinstall  
+> $ wstool init src https://raw.githubusercontent.com/ipa-rwu/scalable_system_setup/master/config/release_psa.rosinstall  
 #If you use HTTPS:  
 > $ wstool init src
 https://raw.githubusercontent.com/ScalABLE40/scalable_system_setup/master/config/release_psa_https.rosinstall  
