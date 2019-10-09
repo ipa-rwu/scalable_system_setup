@@ -8,11 +8,11 @@ scalable_system:
       apm: config/apm_https.rosinstall
       arm_motion: config/arm_motion_https.rosinstall
       inesc_apm_devel: config/inesc_apm_devel_https.rosinstall 
-      release_pas: config/release_psa_https.rosinstall
+      release_psa: config/release_psa_https.rosinstall
     ssh:
       apm: config/apm.rosinstall
       arm_motion: config/arm_motion.rosinstall              
       inesc_apm_devel: config/inesc_apm_devel.rosinstall
-      release_pas: config/release_psa.rosinstall
+      release_psa: config/release_psa.rosinstall
 type: index
 version: 2
